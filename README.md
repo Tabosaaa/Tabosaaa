@@ -1,7 +1,6 @@
-### Olá eu Sou o Lucas Tabosa 👋
+### Hi, I'm o Lucas Tabosa 👋
 
-- 🌱 Estudando React e Python ...
-- 💬 Pergunte-me sobre Html Css e JavaScript...
+- 🌱 Studying Next.js ...
 - 📫 contacte-me no email: tabosalucas2011@gmail.com
 
 
