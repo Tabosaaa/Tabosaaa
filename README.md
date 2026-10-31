@@ -1,6 +1,6 @@
 ### Hi, I'm Lucas Tabosa 👋
 
-Software Engineer at **CI&T**, with experience building full-stack applications, APIs and system integrations for Brazilian and international projects.
+Software Engineer with experience building full-stack applications, APIs and system integrations for Brazilian and international projects.
 
 - 💻 Working with web development, microservices and cloud technologies.
 - 🎓 Software Engineering graduate from PUC Minas.
